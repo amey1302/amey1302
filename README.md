@@ -14,3 +14,38 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+# Hi, I'm Amey! 👋
+
+[![GitHub followers](https://img.shields.io/github/followers/amey1302?style=social)](https://github.com/amey1302?tab=followers)
+[![Profile views](https://komarev.com/ghpvc/?username=amey1302&color=brightgreen)](https://github.com/amey1302)
+
+Welcome to my GitHub! I'm a passionate **Software Engineer** specializing in designing and developing scalable systems using clean, efficient code. I love building projects that make an impact and enjoy sharing what I learn.
+
+## 🚀 Skills and Expertise
+- **Languages**: Java, Python
+- **Frameworks & Tools**: Mockito, JUnit
+- **Development Methodologies**: Object-Oriented Programming, Test-Driven Development (TDD), Domain-Driven Design (DDD), Clean Coding
+- **Architectures**: Microservices Architecture, Design Patterns, Refactoring
+- **ERP**: Deep experience in **ERP** systems and **Data Management**.
+  
+## 🌟 Key Projects
+- **Unusual Spends**: A project showcasing my ability to create meaningful solutions using object-oriented principles.
+
+## 📊 GitHub Stats
+![Amey's GitHub Stats](https://github-readme-stats.vercel.app/api?username=amey1302&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=amey1302&layout=compact&theme=radical)
+
+## ✨ Latest Commits
+![GitHub Commit Activity](https://github-readme-streak-stats.herokuapp.com/?user=amey1302&theme=radical)
+
+## 🛠️ Technologies I'm Currently Exploring
+- Java Advancements
+- GenAI
+
+---
+
+Feel free to connect with me or check out my repositories!
+
+🔗 [LinkedIn](https://www.linkedin.com/in/amey1302/) • [GitHub](https://github.com/amey1302)
+
+
