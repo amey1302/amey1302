@@ -46,6 +46,6 @@ Welcome to my GitHub! I'm a passionate **Software Engineer** specializing in des
 
 Feel free to connect with me or check out my repositories!
 
-🔗 [LinkedIn](https://www.linkedin.com/in/amey1302/) • [GitHub](https://github.com/amey1302)
+🔗 [LinkedIn](https://www.linkedin.com/in/ameykulkarni1302/) • [GitHub](https://github.com/amey1302)
 
 
