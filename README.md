@@ -1,6 +1,6 @@
-## Hi there 👋
 
-<!--
+
+<!-- ## Hi there 👋
 **amey1302/amey1302** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -26,10 +26,9 @@ Welcome to my GitHub! I'm a passionate **Software Engineer** specializing in des
 - **Frameworks & Tools**: Mockito, JUnit
 - **Development Methodologies**: Object-Oriented Programming, Test-Driven Development (TDD), Domain-Driven Design (DDD), Clean Coding
 - **Architectures**: Microservices Architecture, Design Patterns, Refactoring
-- **ERP**: Deep experience in **ERP** systems and **Data Management**.
   
 ## 🌟 Key Projects
-- **Unusual Spends**: A project showcasing my ability to create meaningful solutions using object-oriented principles.
+- **Unusual Spends**: A project showcasing my ability to create solutions using TDD, DDD, and practicing Clean Coding.
 
 ## 📊 GitHub Stats
 ![Amey's GitHub Stats](https://github-readme-stats.vercel.app/api?username=amey1302&show_icons=true&theme=radical)
@@ -40,6 +39,7 @@ Welcome to my GitHub! I'm a passionate **Software Engineer** specializing in des
 
 ## 🛠️ Technologies I'm Currently Exploring
 - Java Advancements
+- Spring Boot
 - GenAI
 
 ---
