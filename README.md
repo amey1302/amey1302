@@ -23,7 +23,8 @@ Welcome to my GitHub! I'm a passionate **Software Engineer** specializing in des
 
 ## 🚀 Skills and Expertise
 - **Languages**: Java, Python
-- **Frameworks & Tools**: Mockito, JUnit
+- **Frameworks**: Mockito, JUnit, Spring Boot
+- **Tools** : IntelliJ IDEA(with shortcuts), Visual Studio Code, Postman, Docker-Desktop
 - **Development Methodologies**: Object-Oriented Programming, Test-Driven Development (TDD), Domain-Driven Design (DDD), Clean Coding
 - **Architectures**: Microservices Architecture, Design Patterns, Refactoring
   
