@@ -39,7 +39,7 @@ Welcome to my GitHub! I'm a passionate **Software Engineer** specializing in des
 
 ## 🛠️ Technologies I'm Currently Exploring
 - Java Advancements
-- Spring Boot
+- Spring Boot, Spring Security
 - GenAI
 
 ---
